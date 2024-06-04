@@ -1,0 +1,1766 @@
+{
+    "currentUser": null,
+    "user": {
+        "__typename": "User",
+        "id": "107234356",
+        "videoShelves": {
+            "__typename": "VideoShelfConnection",
+            "edges": [
+                {
+                    "__typename": "VideoShelfEdge",
+                    "cursor": "0",
+                    "node": {
+                        "__typename": "VideoShelf",
+                        "collection": null,
+                        "description": null,
+                        "id": "ceaa999d-0bbb-4b7d-969e-575663a68386",
+                        "items": [
+                            {
+                                "__typename": "Clip",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0",
+                                    "primaryColorHex": "000000",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e0c6cf9-0ecc-4fed-8930-ce3a2a982a90-profile_image-50x50.png"
+                                },
+                                "clipGame": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/512953_IGDB-52x72.jpg",
+                                    "id": "512953",
+                                    "name": "ELDEN RING"
+                                },
+                                "clipTitle": "IM IN A CHURCHHHH",
+                                "clipViewCount": 7,
+                                "createdAt": "2024-06-03T09:47:16.927480746Z",
+                                "curator": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0"
+                                },
+                                "durationSeconds": 21,
+                                "id": "678272423",
+                                "slug": "HelpfulHonorableEggnogEleGiggle-_b2y51E4xxYzK2rJ",
+                                "thumbnailURL": "https://clips-media-assets2.twitch.tv/Ld0hkf29sudROMcWMytqyQ/AT-cm%7CLd0hkf29sudROMcWMytqyQ-preview-260x147.jpg"
+                            },
+                            {
+                                "__typename": "Clip",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0",
+                                    "primaryColorHex": "000000",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e0c6cf9-0ecc-4fed-8930-ce3a2a982a90-profile_image-50x50.png"
+                                },
+                                "clipGame": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/490292_IGDB-52x72.jpg",
+                                    "id": "490292",
+                                    "name": "DARK SOULS III"
+                                },
+                                "clipTitle": "DS3 GG i guess",
+                                "clipViewCount": 13,
+                                "createdAt": "2024-03-30T15:21:20.247295992Z",
+                                "curator": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0"
+                                },
+                                "durationSeconds": 33,
+                                "id": "2165970825",
+                                "slug": "JazzyProtectiveWatermelonSuperVinlin-O5rbAxyl2cGYOnxa",
+                                "thumbnailURL": "https://clips-media-assets2.twitch.tv/etMV6jua2wMcpdnBmDp8Wg/AT-cm%7CetMV6jua2wMcpdnBmDp8Wg-preview-260x147.jpg"
+                            },
+                            {
+                                "__typename": "Clip",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0",
+                                    "primaryColorHex": "000000",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e0c6cf9-0ecc-4fed-8930-ce3a2a982a90-profile_image-50x50.png"
+                                },
+                                "clipGame": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/490292_IGDB-52x72.jpg",
+                                    "id": "490292",
+                                    "name": "DARK SOULS III"
+                                },
+                                "clipTitle": "The hardest boss for me so far :')",
+                                "clipViewCount": 21,
+                                "createdAt": "2024-03-29T12:06:30.28105795Z",
+                                "curator": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0"
+                                },
+                                "durationSeconds": 57,
+                                "id": "2699772586",
+                                "slug": "GentleTallOwlWoofer-LJoFfe8JCta518a2",
+                                "thumbnailURL": "https://clips-media-assets2.twitch.tv/dG0gbCyaBX3vCQrWudfGtg/AT-cm%7CdG0gbCyaBX3vCQrWudfGtg-preview-260x147.jpg"
+                            },
+                            {
+                                "__typename": "Clip",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0",
+                                    "primaryColorHex": "000000",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e0c6cf9-0ecc-4fed-8930-ce3a2a982a90-profile_image-50x50.png"
+                                },
+                                "clipGame": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/490292_IGDB-52x72.jpg",
+                                    "id": "490292",
+                                    "name": "DARK SOULS III"
+                                },
+                                "clipTitle": "Abyss Watcher GG",
+                                "clipViewCount": 3,
+                                "createdAt": "2024-03-27T16:46:55.174656335Z",
+                                "curator": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0"
+                                },
+                                "durationSeconds": 47,
+                                "id": "1385356846",
+                                "slug": "CorrectWiseCoffeePhilosoraptor-NwrCqcuKOSRTJfSe",
+                                "thumbnailURL": "https://clips-media-assets2.twitch.tv/O9_nFzcKwqnLijkkUyX0ng/AT-cm%7CO9_nFzcKwqnLijkkUyX0ng-preview-260x147.jpg"
+                            },
+                            {
+                                "__typename": "Clip",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0",
+                                    "primaryColorHex": "000000",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e0c6cf9-0ecc-4fed-8930-ce3a2a982a90-profile_image-50x50.png"
+                                },
+                                "clipGame": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/490292_IGDB-52x72.jpg",
+                                    "id": "490292",
+                                    "name": "DARK SOULS III"
+                                },
+                                "clipTitle": "Old Demon King GG",
+                                "clipViewCount": 3,
+                                "createdAt": "2024-03-27T16:33:33.234245544Z",
+                                "curator": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0"
+                                },
+                                "durationSeconds": 38,
+                                "id": "1232303902",
+                                "slug": "FamousFitSheepBudBlast-Nuy1eAwb_NIfvdyp",
+                                "thumbnailURL": "https://clips-media-assets2.twitch.tv/zKioGTbstXgMG_zSH73cqQ/AT-cm%7CzKioGTbstXgMG_zSH73cqQ-preview-260x147.jpg"
+                            },
+                            {
+                                "__typename": "Clip",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0",
+                                    "primaryColorHex": "000000",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e0c6cf9-0ecc-4fed-8930-ce3a2a982a90-profile_image-50x50.png"
+                                },
+                                "clipGame": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/490292_IGDB-52x72.jpg",
+                                    "id": "490292",
+                                    "name": "DARK SOULS III"
+                                },
+                                "clipTitle": "i got dunked on AGAIN, by a skeliball",
+                                "clipViewCount": 3,
+                                "createdAt": "2024-03-24T13:01:12.411005446Z",
+                                "curator": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0"
+                                },
+                                "durationSeconds": 28,
+                                "id": "2647864416",
+                                "slug": "GeniusHeartlessPandaHotPokket-ziSzlzpF1bJoOp_w",
+                                "thumbnailURL": "https://clips-media-assets2.twitch.tv/zM1aRs4ks5c6RdWyaDqf8A/AT-cm%7CzM1aRs4ks5c6RdWyaDqf8A-preview-260x147.jpg"
+                            },
+                            {
+                                "__typename": "Clip",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0",
+                                    "primaryColorHex": "000000",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e0c6cf9-0ecc-4fed-8930-ce3a2a982a90-profile_image-50x50.png"
+                                },
+                                "clipGame": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/489170_IGDB-52x72.jpg",
+                                    "id": "489170",
+                                    "name": "DARK SOULS II: Scholar of the First Sin"
+                                },
+                                "clipTitle": "Ben takes the express way",
+                                "clipViewCount": 5,
+                                "createdAt": "2024-03-19T09:21:22.350057942Z",
+                                "curator": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0"
+                                },
+                                "durationSeconds": 38,
+                                "id": "2225199950",
+                                "slug": "MildMistyAlpacaMikeHogu-lt--qjHYj4qqwMU-",
+                                "thumbnailURL": "https://clips-media-assets2.twitch.tv/tHSLTZbfvqox2I-KqsDFPg/AT-cm%7CtHSLTZbfvqox2I-KqsDFPg-preview-260x147.jpg"
+                            },
+                            {
+                                "__typename": "Clip",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0",
+                                    "primaryColorHex": "000000",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e0c6cf9-0ecc-4fed-8930-ce3a2a982a90-profile_image-50x50.png"
+                                },
+                                "clipGame": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/489170_IGDB-52x72.jpg",
+                                    "id": "489170",
+                                    "name": "DARK SOULS II: Scholar of the First Sin"
+                                },
+                                "clipTitle": "getting ganged banged again",
+                                "clipViewCount": 5,
+                                "createdAt": "2024-03-12T10:27:32.143138098Z",
+                                "curator": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0"
+                                },
+                                "durationSeconds": 20,
+                                "id": "1289082181",
+                                "slug": "GoldenWrongTrayHassanChop-gW8RrkzqbuTjrPZc",
+                                "thumbnailURL": "https://clips-media-assets2.twitch.tv/JpO1_oFvEa5M6m7k46z2XA/AT-cm%7CJpO1_oFvEa5M6m7k46z2XA-preview-260x147.jpg"
+                            },
+                            {
+                                "__typename": "Clip",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0",
+                                    "primaryColorHex": "000000",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e0c6cf9-0ecc-4fed-8930-ce3a2a982a90-profile_image-50x50.png"
+                                },
+                                "clipGame": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/489170_IGDB-52x72.jpg",
+                                    "id": "489170",
+                                    "name": "DARK SOULS II: Scholar of the First Sin"
+                                },
+                                "clipTitle": "i wasnt expecting that",
+                                "clipViewCount": 3,
+                                "createdAt": "2024-03-12T10:25:21.094395371Z",
+                                "curator": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0"
+                                },
+                                "durationSeconds": 24,
+                                "id": "2936292280",
+                                "slug": "ObeseStrangeVanillaMrDestructoid-HSv-EwRwcWtbRGt-",
+                                "thumbnailURL": "https://clips-media-assets2.twitch.tv/arQBYR0r_hMEcHFrW0Rrfg/AT-cm%7CarQBYR0r_hMEcHFrW0Rrfg-preview-260x147.jpg"
+                            },
+                            {
+                                "__typename": "Clip",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0",
+                                    "primaryColorHex": "000000",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e0c6cf9-0ecc-4fed-8930-ce3a2a982a90-profile_image-50x50.png"
+                                },
+                                "clipGame": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/91423_IGDB-52x72.jpg",
+                                    "id": "91423",
+                                    "name": "Dark Souls II"
+                                },
+                                "clipTitle": "what's atop the elevator?",
+                                "clipViewCount": 9,
+                                "createdAt": "2024-03-06T15:33:16.946039566Z",
+                                "curator": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0"
+                                },
+                                "durationSeconds": 26,
+                                "id": "75939941",
+                                "slug": "GenerousYummyLeopardBCWarrior-GZQnblow0nm9Vdtx",
+                                "thumbnailURL": "https://clips-media-assets2.twitch.tv/EHmvGBmUJ25aMNJ5vVXbcQ/AT-cm%7CEHmvGBmUJ25aMNJ5vVXbcQ-preview-260x147.jpg"
+                            },
+                            {
+                                "__typename": "Clip",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0",
+                                    "primaryColorHex": "000000",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e0c6cf9-0ecc-4fed-8930-ce3a2a982a90-profile_image-50x50.png"
+                                },
+                                "clipGame": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/91423_IGDB-52x72.jpg",
+                                    "id": "91423",
+                                    "name": "Dark Souls II"
+                                },
+                                "clipTitle": "1st try these bosses",
+                                "clipViewCount": 3,
+                                "createdAt": "2024-03-06T10:29:42.07972698Z",
+                                "curator": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0"
+                                },
+                                "durationSeconds": 58,
+                                "id": "2962361346",
+                                "slug": "SpotlessSpineyChickpeaTBCheesePull-PBgz4wWKAuLjFAVV",
+                                "thumbnailURL": "https://clips-media-assets2.twitch.tv/uWPfZzwYM-MFigLi4xQFVQ/AT-cm%7CuWPfZzwYM-MFigLi4xQFVQ-preview-260x147.jpg"
+                            },
+                            {
+                                "__typename": "Clip",
+                                "broadcaster": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0",
+                                    "primaryColorHex": "000000",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e0c6cf9-0ecc-4fed-8930-ce3a2a982a90-profile_image-50x50.png"
+                                },
+                                "clipGame": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/91423_IGDB-52x72.jpg",
+                                    "id": "91423",
+                                    "name": "Dark Souls II"
+                                },
+                                "clipTitle": "Jesus, CHRISTMAS!",
+                                "clipViewCount": 7,
+                                "createdAt": "2024-03-06T10:26:36.926690042Z",
+                                "curator": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0"
+                                },
+                                "durationSeconds": 29,
+                                "id": "3542110090",
+                                "slug": "PluckyCarelessKleeDatBoi-tTqiIyxNwXntcLeW",
+                                "thumbnailURL": "https://clips-media-assets2.twitch.tv/l78OerU6oiMsTcF57XC3lg/AT-cm%7Cl78OerU6oiMsTcF57XC3lg-preview-260x147.jpg"
+                            }
+                        ],
+                        "title": "Featured Clips",
+                        "type": "TOP_CLIPS"
+                    }
+                },
+                {
+                    "__typename": "VideoShelfEdge",
+                    "cursor": "1",
+                    "node": {
+                        "__typename": "VideoShelf",
+                        "collection": null,
+                        "description": null,
+                        "id": "c39c45be-6d05-49e2-b71f-d696d959cfe2",
+                        "items": [
+                            {
+                                "__typename": "Video",
+                                "animatedPreviewURL": "https://dgeft87wbj63p.cloudfront.net/583c8a89ee7474a1e7c7_benjaminmcp0_40710590229_1717328837/storyboards/2161658373-strip-0.jpg",
+                                "contentTags": [],
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/512953_IGDB-40x56.jpg",
+                                    "displayName": "ELDEN RING",
+                                    "id": "512953",
+                                    "name": "ELDEN RING"
+                                },
+                                "id": "2161658373",
+                                "lengthSeconds": 3554,
+                                "owner": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0",
+                                    "primaryColorHex": "000000",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e0c6cf9-0ecc-4fed-8930-ce3a2a982a90-profile_image-50x50.png"
+                                },
+                                "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/dgeft87wbj63p/583c8a89ee7474a1e7c7_benjaminmcp0_40710590229_1717328837//thumb/thumb0-320x180.jpg",
+                                "publishedAt": "2024-06-02T11:47:33Z",
+                                "resourceRestriction": null,
+                                "self": {
+                                    "__typename": "VideoSelfEdge",
+                                    "isRestricted": false,
+                                    "viewingHistory": null
+                                },
+                                "title": "Sunday streaming ~ DEX/ARC build! [NG+ - 100% - no summons] !discord !yt !sfx",
+                                "viewCount": 24
+                            },
+                            {
+                                "__typename": "Video",
+                                "animatedPreviewURL": "https://dgeft87wbj63p.cloudfront.net/d1fd9f5c95e393426f57_benjaminmcp0_40706844629_1717240073/storyboards/2160778873-strip-0.jpg",
+                                "contentTags": [],
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/512953_IGDB-40x56.jpg",
+                                    "displayName": "ELDEN RING",
+                                    "id": "512953",
+                                    "name": "ELDEN RING"
+                                },
+                                "id": "2160778873",
+                                "lengthSeconds": 23240,
+                                "owner": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0",
+                                    "primaryColorHex": "000000",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e0c6cf9-0ecc-4fed-8930-ce3a2a982a90-profile_image-50x50.png"
+                                },
+                                "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/dgeft87wbj63p/d1fd9f5c95e393426f57_benjaminmcp0_40706844629_1717240073//thumb/thumb0-320x180.jpg",
+                                "publishedAt": "2024-06-01T11:07:59Z",
+                                "resourceRestriction": null,
+                                "self": {
+                                    "__typename": "VideoSelfEdge",
+                                    "isRestricted": false,
+                                    "viewingHistory": null
+                                },
+                                "title": "Affiliate anniversary i guess??? DEX/ARC build! [NG+ - 100% - no summons] !discord !yt !sfx benjam128BirthdayBoi",
+                                "viewCount": 96
+                            },
+                            {
+                                "__typename": "Video",
+                                "animatedPreviewURL": "https://d1m7jfoe9zdc1j.cloudfront.net/db6f32d5c5a059dfde3f_benjaminmcp0_51187534989_1716830280/storyboards/2156740271-strip-0.jpg",
+                                "contentTags": [],
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/512953_IGDB-40x56.jpg",
+                                    "displayName": "ELDEN RING",
+                                    "id": "512953",
+                                    "name": "ELDEN RING"
+                                },
+                                "id": "2156740271",
+                                "lengthSeconds": 12190,
+                                "owner": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0",
+                                    "primaryColorHex": "000000",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e0c6cf9-0ecc-4fed-8930-ce3a2a982a90-profile_image-50x50.png"
+                                },
+                                "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/db6f32d5c5a059dfde3f_benjaminmcp0_51187534989_1716830280//thumb/thumb0-320x180.jpg",
+                                "publishedAt": "2024-05-27T17:18:05Z",
+                                "resourceRestriction": null,
+                                "self": {
+                                    "__typename": "VideoSelfEdge",
+                                    "isRestricted": false,
+                                    "viewingHistory": null
+                                },
+                                "title": "Shorter stream today! DEX/ARC build! [NG+ - 100% - no summons] !discord !yt !sfx",
+                                "viewCount": 52
+                            },
+                            {
+                                "__typename": "Video",
+                                "animatedPreviewURL": "https://dgeft87wbj63p.cloudfront.net/0c38064326cc898d1f06_benjaminmcp0_42379315240_1716638581/storyboards/2154828032-strip-0.jpg",
+                                "contentTags": [],
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/512953_IGDB-40x56.jpg",
+                                    "displayName": "ELDEN RING",
+                                    "id": "512953",
+                                    "name": "ELDEN RING"
+                                },
+                                "id": "2154828032",
+                                "lengthSeconds": 25040,
+                                "owner": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0",
+                                    "primaryColorHex": "000000",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e0c6cf9-0ecc-4fed-8930-ce3a2a982a90-profile_image-50x50.png"
+                                },
+                                "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/dgeft87wbj63p/0c38064326cc898d1f06_benjaminmcp0_42379315240_1716638581//thumb/thumb0-320x180.jpg",
+                                "publishedAt": "2024-05-25T12:03:05Z",
+                                "resourceRestriction": null,
+                                "self": {
+                                    "__typename": "VideoSelfEdge",
+                                    "isRestricted": false,
+                                    "viewingHistory": null
+                                },
+                                "title": "Saturday strim??? DEX/ARC build [NG+ -- 100%] !discord !yt !sfx",
+                                "viewCount": 94
+                            },
+                            {
+                                "__typename": "Video",
+                                "animatedPreviewURL": "https://dgeft87wbj63p.cloudfront.net/9a340f528857b8cd60c0_benjaminmcp0_42372259848_1716485179/storyboards/2153264394-strip-0.jpg",
+                                "contentTags": [],
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/512953_IGDB-40x56.jpg",
+                                    "displayName": "ELDEN RING",
+                                    "id": "512953",
+                                    "name": "ELDEN RING"
+                                },
+                                "id": "2153264394",
+                                "lengthSeconds": 21830,
+                                "owner": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0",
+                                    "primaryColorHex": "000000",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e0c6cf9-0ecc-4fed-8930-ce3a2a982a90-profile_image-50x50.png"
+                                },
+                                "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/dgeft87wbj63p/9a340f528857b8cd60c0_benjaminmcp0_42372259848_1716485179//thumb/thumb0-320x180.jpg",
+                                "publishedAt": "2024-05-23T17:26:24Z",
+                                "resourceRestriction": null,
+                                "self": {
+                                    "__typename": "VideoSelfEdge",
+                                    "isRestricted": false,
+                                    "viewingHistory": null
+                                },
+                                "title": "Final boss then ng+ dex/arcane build lets goooo [NG+ 100%] !discord !yt !sfx",
+                                "viewCount": 78
+                            },
+                            {
+                                "__typename": "Video",
+                                "animatedPreviewURL": "https://d1m7jfoe9zdc1j.cloudfront.net/e9157a8806cd2c889249_benjaminmcp0_51142202733_1716311713/storyboards/2151545712-strip-0.jpg",
+                                "contentTags": [],
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/512953_IGDB-40x56.jpg",
+                                    "displayName": "ELDEN RING",
+                                    "id": "512953",
+                                    "name": "ELDEN RING"
+                                },
+                                "id": "2151545712",
+                                "lengthSeconds": 27550,
+                                "owner": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0",
+                                    "primaryColorHex": "000000",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e0c6cf9-0ecc-4fed-8930-ce3a2a982a90-profile_image-50x50.png"
+                                },
+                                "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/e9157a8806cd2c889249_benjaminmcp0_51142202733_1716311713//thumb/thumb0-320x180.jpg",
+                                "publishedAt": "2024-05-21T17:15:18Z",
+                                "resourceRestriction": null,
+                                "self": {
+                                    "__typename": "VideoSelfEdge",
+                                    "isRestricted": false,
+                                    "viewingHistory": null
+                                },
+                                "title": "Elden Ring - bonk is back bonkerSSS - Great Star Build [First Playthrough] !discord !yt !sfx",
+                                "viewCount": 139
+                            },
+                            {
+                                "__typename": "Video",
+                                "animatedPreviewURL": "https://dgeft87wbj63p.cloudfront.net/2d772ce84e5eef541a28_benjaminmcp0_42360672712_1716226194/storyboards/2150733850-strip-0.jpg",
+                                "contentTags": [],
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/512953_IGDB-40x56.jpg",
+                                    "displayName": "ELDEN RING",
+                                    "id": "512953",
+                                    "name": "ELDEN RING"
+                                },
+                                "id": "2150733850",
+                                "lengthSeconds": 20750,
+                                "owner": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0",
+                                    "primaryColorHex": "000000",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e0c6cf9-0ecc-4fed-8930-ce3a2a982a90-profile_image-50x50.png"
+                                },
+                                "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/dgeft87wbj63p/2d772ce84e5eef541a28_benjaminmcp0_42360672712_1716226194//thumb/thumb0-320x180.jpg",
+                                "publishedAt": "2024-05-20T17:29:59Z",
+                                "resourceRestriction": null,
+                                "self": {
+                                    "__typename": "VideoSelfEdge",
+                                    "isRestricted": false,
+                                    "viewingHistory": null
+                                },
+                                "title": "Words --> Elden Ring // New Weapons POG [First Playthrough - PART 6] !discord !yt !sfx",
+                                "viewCount": 94
+                            },
+                            {
+                                "__typename": "Video",
+                                "animatedPreviewURL": "https://dgeft87wbj63p.cloudfront.net/16abb845eba3056e908d_benjaminmcp0_40655051253_1715880676/storyboards/2147300426-strip-0.jpg",
+                                "contentTags": [],
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/512821-40x56.jpg",
+                                    "displayName": "Words On Stream",
+                                    "id": "512821",
+                                    "name": "Words On Stream"
+                                },
+                                "id": "2147300426",
+                                "lengthSeconds": 17890,
+                                "owner": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0",
+                                    "primaryColorHex": "000000",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e0c6cf9-0ecc-4fed-8930-ce3a2a982a90-profile_image-50x50.png"
+                                },
+                                "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/dgeft87wbj63p/16abb845eba3056e908d_benjaminmcp0_40655051253_1715880676//thumb/thumb0-320x180.jpg",
+                                "publishedAt": "2024-05-16T17:31:22Z",
+                                "resourceRestriction": null,
+                                "self": {
+                                    "__typename": "VideoSelfEdge",
+                                    "isRestricted": false,
+                                    "viewingHistory": null
+                                },
+                                "title": "WERDS & Elden Ring // Hammer BRO takes on Fallingstar beast [First Playthrough - PART 6] !discord !yt !sfx",
+                                "viewCount": 95
+                            },
+                            {
+                                "__typename": "Video",
+                                "animatedPreviewURL": "https://dgeft87wbj63p.cloudfront.net/9c48a3055c04a8d2c12d_benjaminmcp0_42336747672_1715707086/storyboards/2145636144-strip-0.jpg",
+                                "contentTags": [],
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/512953_IGDB-40x56.jpg",
+                                    "displayName": "ELDEN RING",
+                                    "id": "512953",
+                                    "name": "ELDEN RING"
+                                },
+                                "id": "2145636144",
+                                "lengthSeconds": 26840,
+                                "owner": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0",
+                                    "primaryColorHex": "000000",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e0c6cf9-0ecc-4fed-8930-ce3a2a982a90-profile_image-50x50.png"
+                                },
+                                "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/dgeft87wbj63p/9c48a3055c04a8d2c12d_benjaminmcp0_42336747672_1715707086//thumb/thumb0-320x180.jpg",
+                                "publishedAt": "2024-05-14T17:18:10Z",
+                                "resourceRestriction": null,
+                                "self": {
+                                    "__typename": "VideoSelfEdge",
+                                    "isRestricted": false,
+                                    "viewingHistory": null
+                                },
+                                "title": "Where we off to today??? Elden Ring [First Playthrough - PART 5] !discord !yt !sfx",
+                                "viewCount": 115
+                            },
+                            {
+                                "__typename": "Video",
+                                "animatedPreviewURL": "https://dgeft87wbj63p.cloudfront.net/2c14935e6b8e3c3061a3_benjaminmcp0_42332839176_1715620468/storyboards/2144815739-strip-0.jpg",
+                                "contentTags": [],
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/512821-40x56.jpg",
+                                    "displayName": "Words On Stream",
+                                    "id": "512821",
+                                    "name": "Words On Stream"
+                                },
+                                "id": "2144815739",
+                                "lengthSeconds": 20370,
+                                "owner": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0",
+                                    "primaryColorHex": "000000",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e0c6cf9-0ecc-4fed-8930-ce3a2a982a90-profile_image-50x50.png"
+                                },
+                                "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/dgeft87wbj63p/2c14935e6b8e3c3061a3_benjaminmcp0_42332839176_1715620468//thumb/thumb0-320x180.jpg",
+                                "publishedAt": "2024-05-13T17:14:33Z",
+                                "resourceRestriction": null,
+                                "self": {
+                                    "__typename": "VideoSelfEdge",
+                                    "isRestricted": false,
+                                    "viewingHistory": null
+                                },
+                                "title": "Where we off to today??? WORDZZZ N' Elden Ring [First Playthrough - PART 5] !discord !yt !sfx",
+                                "viewCount": 106
+                            },
+                            {
+                                "__typename": "Video",
+                                "animatedPreviewURL": "https://d1m7jfoe9zdc1j.cloudfront.net/b396d91b7bcd82cee8b8_benjaminmcp0_51076234445_1715533556/storyboards/2144045584-strip-0.jpg",
+                                "contentTags": [],
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/512953_IGDB-40x56.jpg",
+                                    "displayName": "ELDEN RING",
+                                    "id": "512953",
+                                    "name": "ELDEN RING"
+                                },
+                                "id": "2144045584",
+                                "lengthSeconds": 20210,
+                                "owner": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0",
+                                    "primaryColorHex": "000000",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e0c6cf9-0ecc-4fed-8930-ce3a2a982a90-profile_image-50x50.png"
+                                },
+                                "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/b396d91b7bcd82cee8b8_benjaminmcp0_51076234445_1715533556//thumb/thumb0-320x180.jpg",
+                                "publishedAt": "2024-05-12T17:06:01Z",
+                                "resourceRestriction": null,
+                                "self": {
+                                    "__typename": "VideoSelfEdge",
+                                    "isRestricted": false,
+                                    "viewingHistory": null
+                                },
+                                "title": "Sunday big chilling' Elden Ring [First Playthrough - PART 5] !discord !yt !sfx",
+                                "viewCount": 81
+                            },
+                            {
+                                "__typename": "Video",
+                                "animatedPreviewURL": "https://dgeft87wbj63p.cloudfront.net/de9c631a48c598e8a4a7_benjaminmcp0_42325765176_1715459296/storyboards/2143338662-strip-0.jpg",
+                                "contentTags": [],
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/509658-40x56.jpg",
+                                    "displayName": "Just Chatting",
+                                    "id": "509658",
+                                    "name": "Just Chatting"
+                                },
+                                "id": "2143338662",
+                                "lengthSeconds": 6700,
+                                "owner": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0",
+                                    "primaryColorHex": "000000",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e0c6cf9-0ecc-4fed-8930-ce3a2a982a90-profile_image-50x50.png"
+                                },
+                                "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/dgeft87wbj63p/de9c631a48c598e8a4a7_benjaminmcp0_42325765176_1715459296//thumb/thumb0-320x180.jpg",
+                                "publishedAt": "2024-05-11T20:28:20Z",
+                                "resourceRestriction": null,
+                                "self": {
+                                    "__typename": "VideoSelfEdge",
+                                    "isRestricted": false,
+                                    "viewingHistory": null
+                                },
+                                "title": "Late night Brawl n' ER !mywheel !discord !sfx",
+                                "viewCount": 24
+                            }
+                        ],
+                        "title": "Recent broadcasts",
+                        "type": "LATEST_BROADCASTS"
+                    }
+                },
+                {
+                    "__typename": "VideoShelfEdge",
+                    "cursor": "2",
+                    "node": {
+                        "__typename": "VideoShelf",
+                        "collection": null,
+                        "description": null,
+                        "id": "84d04c2b-4975-4207-8a71-e13eef4d830c",
+                        "items": [
+                            {
+                                "__typename": "Video",
+                                "animatedPreviewURL": "https://d2nvs31859zcd8.cloudfront.net/3d2eea4d5107f9aa4f2b_107234356_2114356580_fa725f94-99c5-47fa-b1d8-c03d60aa1cc8/storyboards/2114356580-strip-0.jpg",
+                                "contentTags": [],
+                                "game": null,
+                                "id": "2114356580",
+                                "lengthSeconds": 60,
+                                "owner": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0",
+                                    "primaryColorHex": "000000",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e0c6cf9-0ecc-4fed-8930-ce3a2a982a90-profile_image-50x50.png"
+                                },
+                                "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/3d2eea4d5107f9aa4f2b_107234356_2114356580_fa725f94-99c5-47fa-b1d8-c03d60aa1cc8/thumb/index-0000000000-320x180.jpg",
+                                "publishedAt": "2024-04-08T15:31:45Z",
+                                "resourceRestriction": null,
+                                "self": {
+                                    "__typename": "VideoSelfEdge",
+                                    "isRestricted": false,
+                                    "viewingHistory": null
+                                },
+                                "title": "benjaminmcp0's Channel Trailer",
+                                "viewCount": 42
+                            },
+                            {
+                                "__typename": "Video",
+                                "animatedPreviewURL": "https://d2nvs31859zcd8.cloudfront.net/62b20673223259de2880_107234356_2106083140_7bc83199-2d92-4e3b-8b80-103053380ace/storyboards/2106083140-strip-0.jpg",
+                                "contentTags": [],
+                                "game": null,
+                                "id": "2106083140",
+                                "lengthSeconds": 58,
+                                "owner": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0",
+                                    "primaryColorHex": "000000",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e0c6cf9-0ecc-4fed-8930-ce3a2a982a90-profile_image-50x50.png"
+                                },
+                                "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/62b20673223259de2880_107234356_2106083140_7bc83199-2d92-4e3b-8b80-103053380ace/thumb/index-0000000000-320x180.jpg",
+                                "publishedAt": "2024-03-30T18:52:00Z",
+                                "resourceRestriction": null,
+                                "self": {
+                                    "__typename": "VideoSelfEdge",
+                                    "isRestricted": false,
+                                    "viewingHistory": null
+                                },
+                                "title": "benjaminmcp0's Channel Trailer",
+                                "viewCount": 8
+                            },
+                            {
+                                "__typename": "Video",
+                                "animatedPreviewURL": "https://d2nvs31859zcd8.cloudfront.net/56c955d3f7f089e4bf38_benjaminmcp0_10365858866_7005375880/storyboards/2101847061-strip-0.jpg",
+                                "contentTags": [],
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/490292_IGDB-40x56.jpg",
+                                    "displayName": "DARK SOULS III",
+                                    "id": "490292",
+                                    "name": "DARK SOULS III"
+                                },
+                                "id": "2101847061",
+                                "lengthSeconds": 201,
+                                "owner": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0",
+                                    "primaryColorHex": "000000",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e0c6cf9-0ecc-4fed-8930-ce3a2a982a90-profile_image-50x50.png"
+                                },
+                                "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/56c955d3f7f089e4bf38_benjaminmcp0_10365858866_7005375880//thumb/thumb2101847061-320x180.jpg",
+                                "publishedAt": "2024-03-26T08:23:43Z",
+                                "resourceRestriction": null,
+                                "self": {
+                                    "__typename": "VideoSelfEdge",
+                                    "isRestricted": false,
+                                    "viewingHistory": null
+                                },
+                                "title": "Pontoon Sulyvahn Full Fight",
+                                "viewCount": 0
+                            },
+                            {
+                                "__typename": "Video",
+                                "animatedPreviewURL": "https://dgeft87wbj63p.cloudfront.net/3f5f9d9f4571b7771f55_benjaminmcp0_41790681122_5265940077/storyboards/2081507271-strip-0.jpg",
+                                "contentTags": [],
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/1122982998_IGDB-40x56.jpg",
+                                    "displayName": "Dark Souls: Remastered",
+                                    "id": "1122982998",
+                                    "name": "Dark Souls: Remastered"
+                                },
+                                "id": "2081507271",
+                                "lengthSeconds": 321,
+                                "owner": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0",
+                                    "primaryColorHex": "000000",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e0c6cf9-0ecc-4fed-8930-ce3a2a982a90-profile_image-50x50.png"
+                                },
+                                "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/dgeft87wbj63p/3f5f9d9f4571b7771f55_benjaminmcp0_41790681122_5265940077//thumb/thumb2081507271-320x180.jpg",
+                                "publishedAt": "2024-03-05T00:46:18Z",
+                                "resourceRestriction": null,
+                                "self": {
+                                    "__typename": "VideoSelfEdge",
+                                    "isRestricted": false,
+                                    "viewingHistory": null
+                                },
+                                "title": "gwyn lord of cinder & credits roll ",
+                                "viewCount": 1
+                            },
+                            {
+                                "__typename": "Video",
+                                "animatedPreviewURL": "https://dgeft87wbj63p.cloudfront.net/0da18646dbbe65b813a9_benjaminmcp0_85279424524_7762728684/storyboards/2069258128-strip-0.jpg",
+                                "contentTags": [],
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/1122982998_IGDB-40x56.jpg",
+                                    "displayName": "Dark Souls: Remastered",
+                                    "id": "1122982998",
+                                    "name": "Dark Souls: Remastered"
+                                },
+                                "id": "2069258128",
+                                "lengthSeconds": 111,
+                                "owner": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0",
+                                    "primaryColorHex": "000000",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e0c6cf9-0ecc-4fed-8930-ce3a2a982a90-profile_image-50x50.png"
+                                },
+                                "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/dgeft87wbj63p/0da18646dbbe65b813a9_benjaminmcp0_85279424524_7762728684//thumb/thumb2069258128-320x180.jpg",
+                                "publishedAt": "2024-02-21T09:39:03Z",
+                                "resourceRestriction": null,
+                                "self": {
+                                    "__typename": "VideoSelfEdge",
+                                    "isRestricted": false,
+                                    "viewingHistory": null
+                                },
+                                "title": "Dark Souls - Capra demon - Full Fight",
+                                "viewCount": 0
+                            },
+                            {
+                                "__typename": "Video",
+                                "animatedPreviewURL": "https://dgeft87wbj63p.cloudfront.net/eeb303453138b881d9b8_benjaminmcp0_58631913586_8482607696/storyboards/2066443278-strip-0.jpg",
+                                "contentTags": [],
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/1122982998_IGDB-40x56.jpg",
+                                    "displayName": "Dark Souls: Remastered",
+                                    "id": "1122982998",
+                                    "name": "Dark Souls: Remastered"
+                                },
+                                "id": "2066443278",
+                                "lengthSeconds": 84,
+                                "owner": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0",
+                                    "primaryColorHex": "000000",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e0c6cf9-0ecc-4fed-8930-ce3a2a982a90-profile_image-50x50.png"
+                                },
+                                "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/dgeft87wbj63p/eeb303453138b881d9b8_benjaminmcp0_58631913586_8482607696//thumb/thumb2066443278-320x180.jpg",
+                                "publishedAt": "2024-02-18T13:35:47Z",
+                                "resourceRestriction": null,
+                                "self": {
+                                    "__typename": "VideoSelfEdge",
+                                    "isRestricted": false,
+                                    "viewingHistory": null
+                                },
+                                "title": "Bell Gargoyles Beat",
+                                "viewCount": 1
+                            },
+                            {
+                                "__typename": "Video",
+                                "animatedPreviewURL": "https://d2nvs31859zcd8.cloudfront.net/d33b88f157111f2cda18_benjaminmcp0_30280374106_3340970661/storyboards/2026920809-strip-0.jpg",
+                                "contentTags": [],
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/6521_IGDB-40x56.jpg",
+                                    "displayName": "Grand Theft Auto: San Andreas",
+                                    "id": "6521",
+                                    "name": "Grand Theft Auto: San Andreas"
+                                },
+                                "id": "2026920809",
+                                "lengthSeconds": 58,
+                                "owner": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0",
+                                    "primaryColorHex": "000000",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e0c6cf9-0ecc-4fed-8930-ce3a2a982a90-profile_image-50x50.png"
+                                },
+                                "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/d33b88f157111f2cda18_benjaminmcp0_30280374106_3340970661//thumb/thumb2026920809-320x180.jpg",
+                                "publishedAt": "2024-01-08T23:54:37Z",
+                                "resourceRestriction": null,
+                                "self": {
+                                    "__typename": "VideoSelfEdge",
+                                    "isRestricted": false,
+                                    "viewingHistory": null
+                                },
+                                "title": "what kinda beach party is this?",
+                                "viewCount": 9
+                            },
+                            {
+                                "__typename": "Video",
+                                "animatedPreviewURL": "https://d2nvs31859zcd8.cloudfront.net/6905489e8abd7739fc56_107234356_1996693005_d45ecd4e-6e01-4b0f-9017-4f8ea3d372ba/storyboards/1996693005-strip-0.jpg",
+                                "contentTags": [],
+                                "game": null,
+                                "id": "1996693005",
+                                "lengthSeconds": 59,
+                                "owner": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0",
+                                    "primaryColorHex": "000000",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e0c6cf9-0ecc-4fed-8930-ce3a2a982a90-profile_image-50x50.png"
+                                },
+                                "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/6905489e8abd7739fc56_107234356_1996693005_d45ecd4e-6e01-4b0f-9017-4f8ea3d372ba/thumb/index-0000000000-320x180.jpg",
+                                "publishedAt": "2023-12-06T13:14:18Z",
+                                "resourceRestriction": null,
+                                "self": {
+                                    "__typename": "VideoSelfEdge",
+                                    "isRestricted": false,
+                                    "viewingHistory": null
+                                },
+                                "title": "benjaminmcp0's Channel Trailer",
+                                "viewCount": 148
+                            },
+                            {
+                                "__typename": "Video",
+                                "animatedPreviewURL": "https://dgeft87wbj63p.cloudfront.net/1f8370fa9b1f57a98217_benjaminmcp0_91866591601_6506905070/storyboards/1959289701-strip-0.jpg",
+                                "contentTags": [],
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/27284-40x56.jpg",
+                                    "displayName": "Retro",
+                                    "id": "27284",
+                                    "name": "Retro"
+                                },
+                                "id": "1959289701",
+                                "lengthSeconds": 24,
+                                "owner": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0",
+                                    "primaryColorHex": "000000",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e0c6cf9-0ecc-4fed-8930-ce3a2a982a90-profile_image-50x50.png"
+                                },
+                                "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/dgeft87wbj63p/1f8370fa9b1f57a98217_benjaminmcp0_91866591601_6506905070//thumb/thumb1959289701-320x180.jpg",
+                                "publishedAt": "2023-10-24T17:52:44Z",
+                                "resourceRestriction": null,
+                                "self": {
+                                    "__typename": "VideoSelfEdge",
+                                    "isRestricted": false,
+                                    "viewingHistory": null
+                                },
+                                "title": "exiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii",
+                                "viewCount": 3
+                            },
+                            {
+                                "__typename": "Video",
+                                "animatedPreviewURL": "https://dgeft87wbj63p.cloudfront.net/b62c5d69fd1246d49312_benjaminmcp0_61035966099_4684875454/storyboards/1862475119-strip-0.jpg",
+                                "contentTags": [],
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/27284-40x56.jpg",
+                                    "displayName": "Retro",
+                                    "id": "27284",
+                                    "name": "Retro"
+                                },
+                                "id": "1862475119",
+                                "lengthSeconds": 88,
+                                "owner": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0",
+                                    "primaryColorHex": "000000",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e0c6cf9-0ecc-4fed-8930-ce3a2a982a90-profile_image-50x50.png"
+                                },
+                                "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/dgeft87wbj63p/b62c5d69fd1246d49312_benjaminmcp0_61035966099_4684875454//thumb/thumb1862475119-320x180.jpg",
+                                "publishedAt": "2023-07-03T19:21:21Z",
+                                "resourceRestriction": null,
+                                "self": {
+                                    "__typename": "VideoSelfEdge",
+                                    "isRestricted": false,
+                                    "viewingHistory": null
+                                },
+                                "title": "Crash Bandicoot 2: Cortex Strikes Back - Dark Horse (RA)",
+                                "viewCount": 7
+                            },
+                            {
+                                "__typename": "Video",
+                                "animatedPreviewURL": "https://dgeft87wbj63p.cloudfront.net/5ab54ef0d33704ce4732_benjaminmcp0_91657216493_5186489889/storyboards/1747576337-strip-0.jpg",
+                                "contentTags": [],
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/27284-40x56.jpg",
+                                    "displayName": "Retro",
+                                    "id": "27284",
+                                    "name": "Retro"
+                                },
+                                "id": "1747576337",
+                                "lengthSeconds": 192,
+                                "owner": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0",
+                                    "primaryColorHex": "000000",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e0c6cf9-0ecc-4fed-8930-ce3a2a982a90-profile_image-50x50.png"
+                                },
+                                "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/dgeft87wbj63p/5ab54ef0d33704ce4732_benjaminmcp0_91657216493_5186489889//thumb/thumb1747576337-320x180.jpg",
+                                "publishedAt": "2023-02-24T11:00:01Z",
+                                "resourceRestriction": null,
+                                "self": {
+                                    "__typename": "VideoSelfEdge",
+                                    "isRestricted": false,
+                                    "viewingHistory": null
+                                },
+                                "title": "Bens Talks: Crash Bandicoots ",
+                                "viewCount": 8
+                            },
+                            {
+                                "__typename": "Video",
+                                "animatedPreviewURL": "https://d2nvs31859zcd8.cloudfront.net/360b8dcb11c0ff5a0f36_107234356_1743212970_564dc0df-e7d7-4283-b7f3-b3863b4ed00b/storyboards/1743212970-strip-0.jpg",
+                                "contentTags": [],
+                                "game": null,
+                                "id": "1743212970",
+                                "lengthSeconds": 59,
+                                "owner": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0",
+                                    "primaryColorHex": "000000",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e0c6cf9-0ecc-4fed-8930-ce3a2a982a90-profile_image-50x50.png"
+                                },
+                                "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/360b8dcb11c0ff5a0f36_107234356_1743212970_564dc0df-e7d7-4283-b7f3-b3863b4ed00b/thumb/index-0000000000-320x180.jpg",
+                                "publishedAt": "2023-02-19T21:04:09Z",
+                                "resourceRestriction": null,
+                                "self": {
+                                    "__typename": "VideoSelfEdge",
+                                    "isRestricted": false,
+                                    "viewingHistory": null
+                                },
+                                "title": "benjaminmcp0's Channel Trailer",
+                                "viewCount": 270
+                            }
+                        ],
+                        "title": "Recent highlights and uploads",
+                        "type": "LATEST_NON_BROADCASTS"
+                    }
+                },
+                {
+                    "__typename": "VideoShelfEdge",
+                    "cursor": "3",
+                    "node": {
+                        "__typename": "VideoShelf",
+                        "collection": {
+                            "__typename": "Collection",
+                            "description": "",
+                            "id": "iYZ5F_6KkBZ_rQ",
+                            "items": {
+                                "__typename": "CollectionConnection",
+                                "edges": [
+                                    {
+                                        "__typename": "CollectionItemEdge",
+                                        "cursor": "MQ==",
+                                        "node": {
+                                            "__typename": "Video",
+                                            "animatedPreviewURL": "https://d2nvs31859zcd8.cloudfront.net/benjaminmcp0/1082847179/517b49ad-412a-4966-87cf-c0649c3f46b2/storyboards/1082847179-strip-0.jpg",
+                                            "contentTags": [],
+                                            "game": null,
+                                            "id": "1082847179",
+                                            "lengthSeconds": 12,
+                                            "owner": {
+                                                "__typename": "User",
+                                                "displayName": "benjaminmcp0",
+                                                "id": "107234356",
+                                                "login": "benjaminmcp0",
+                                                "primaryColorHex": "000000",
+                                                "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e0c6cf9-0ecc-4fed-8930-ce3a2a982a90-profile_image-50x50.png"
+                                            },
+                                            "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/benjaminmcp0/1082847179/517b49ad-412a-4966-87cf-c0649c3f46b2/thumb/index-0000000000-320x180.jpg",
+                                            "publishedAt": "2021-07-10T21:24:33Z",
+                                            "resourceRestriction": null,
+                                            "self": {
+                                                "__typename": "VideoSelfEdge",
+                                                "isRestricted": false,
+                                                "viewingHistory": null
+                                            },
+                                            "title": "Sequence 01_1.mp4",
+                                            "viewCount": 4
+                                        }
+                                    },
+                                    {
+                                        "__typename": "CollectionItemEdge",
+                                        "cursor": "Mg==",
+                                        "node": {
+                                            "__typename": "Video",
+                                            "animatedPreviewURL": "https://d2nvs31859zcd8.cloudfront.net/benjaminmcp0/1082860003/58f7c5ae-2b4e-409d-a2b1-fc745bb780a5/storyboards/1082860003-strip-0.jpg",
+                                            "contentTags": [],
+                                            "game": null,
+                                            "id": "1082860003",
+                                            "lengthSeconds": 59,
+                                            "owner": {
+                                                "__typename": "User",
+                                                "displayName": "benjaminmcp0",
+                                                "id": "107234356",
+                                                "login": "benjaminmcp0",
+                                                "primaryColorHex": "000000",
+                                                "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e0c6cf9-0ecc-4fed-8930-ce3a2a982a90-profile_image-50x50.png"
+                                            },
+                                            "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/benjaminmcp0/1082860003/58f7c5ae-2b4e-409d-a2b1-fc745bb780a5/thumb/index-0000000000-320x180.jpg",
+                                            "publishedAt": "2021-07-10T21:42:45Z",
+                                            "resourceRestriction": null,
+                                            "self": {
+                                                "__typename": "VideoSelfEdge",
+                                                "isRestricted": false,
+                                                "viewingHistory": null
+                                            },
+                                            "title": "benjaminmcp0's Channel Trailer",
+                                            "viewCount": 180
+                                        }
+                                    },
+                                    {
+                                        "__typename": "CollectionItemEdge",
+                                        "cursor": "Mw==",
+                                        "node": {
+                                            "__typename": "Video",
+                                            "animatedPreviewURL": "https://d2nvs31859zcd8.cloudfront.net/benjaminmcp0/1559857335/f90ce05b-a83c-4de1-b697-d19ea49ee918/storyboards/1559857335-strip-0.jpg",
+                                            "contentTags": [],
+                                            "game": null,
+                                            "id": "1559857335",
+                                            "lengthSeconds": 59,
+                                            "owner": {
+                                                "__typename": "User",
+                                                "displayName": "benjaminmcp0",
+                                                "id": "107234356",
+                                                "login": "benjaminmcp0",
+                                                "primaryColorHex": "000000",
+                                                "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e0c6cf9-0ecc-4fed-8930-ce3a2a982a90-profile_image-50x50.png"
+                                            },
+                                            "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/benjaminmcp0/1559857335/f90ce05b-a83c-4de1-b697-d19ea49ee918/thumb/index-0000000000-320x180.jpg",
+                                            "publishedAt": "2022-08-12T16:02:43Z",
+                                            "resourceRestriction": null,
+                                            "self": {
+                                                "__typename": "VideoSelfEdge",
+                                                "isRestricted": false,
+                                                "viewingHistory": null
+                                            },
+                                            "title": "benjaminmcp0's Channel Trailer",
+                                            "viewCount": 99
+                                        }
+                                    }
+                                ],
+                                "pageInfo": {
+                                    "__typename": "PageInfo",
+                                    "hasNextPage": false
+                                },
+                                "totalCount": 3
+                            },
+                            "lengthSeconds": 130,
+                            "owner": {
+                                "__typename": "User",
+                                "id": "107234356",
+                                "login": "benjaminmcp0"
+                            },
+                            "thumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/benjaminmcp0/1559857335/f90ce05b-a83c-4de1-b697-d19ea49ee918/thumb/index-0000000000-320x180.jpg",
+                            "title": "trailer",
+                            "type": "DEFAULT",
+                            "updatedAt": "2022-08-12T16:04:44.383Z"
+                        },
+                        "description": "",
+                        "id": "iYZ5F_6KkBZ_rQ",
+                        "items": [
+                            {
+                                "__typename": "Video",
+                                "animatedPreviewURL": "https://d2nvs31859zcd8.cloudfront.net/benjaminmcp0/1082847179/517b49ad-412a-4966-87cf-c0649c3f46b2/storyboards/1082847179-strip-0.jpg",
+                                "contentTags": [],
+                                "game": null,
+                                "id": "1082847179",
+                                "lengthSeconds": 12,
+                                "owner": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0",
+                                    "primaryColorHex": "000000",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e0c6cf9-0ecc-4fed-8930-ce3a2a982a90-profile_image-50x50.png"
+                                },
+                                "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/benjaminmcp0/1082847179/517b49ad-412a-4966-87cf-c0649c3f46b2/thumb/index-0000000000-320x180.jpg",
+                                "publishedAt": "2021-07-10T21:24:33Z",
+                                "resourceRestriction": null,
+                                "self": {
+                                    "__typename": "VideoSelfEdge",
+                                    "isRestricted": false,
+                                    "viewingHistory": null
+                                },
+                                "title": "Sequence 01_1.mp4",
+                                "viewCount": 4
+                            },
+                            {
+                                "__typename": "Video",
+                                "animatedPreviewURL": "https://d2nvs31859zcd8.cloudfront.net/benjaminmcp0/1082860003/58f7c5ae-2b4e-409d-a2b1-fc745bb780a5/storyboards/1082860003-strip-0.jpg",
+                                "contentTags": [],
+                                "game": null,
+                                "id": "1082860003",
+                                "lengthSeconds": 59,
+                                "owner": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0",
+                                    "primaryColorHex": "000000",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e0c6cf9-0ecc-4fed-8930-ce3a2a982a90-profile_image-50x50.png"
+                                },
+                                "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/benjaminmcp0/1082860003/58f7c5ae-2b4e-409d-a2b1-fc745bb780a5/thumb/index-0000000000-320x180.jpg",
+                                "publishedAt": "2021-07-10T21:42:45Z",
+                                "resourceRestriction": null,
+                                "self": {
+                                    "__typename": "VideoSelfEdge",
+                                    "isRestricted": false,
+                                    "viewingHistory": null
+                                },
+                                "title": "benjaminmcp0's Channel Trailer",
+                                "viewCount": 180
+                            },
+                            {
+                                "__typename": "Video",
+                                "animatedPreviewURL": "https://d2nvs31859zcd8.cloudfront.net/benjaminmcp0/1559857335/f90ce05b-a83c-4de1-b697-d19ea49ee918/storyboards/1559857335-strip-0.jpg",
+                                "contentTags": [],
+                                "game": null,
+                                "id": "1559857335",
+                                "lengthSeconds": 59,
+                                "owner": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0",
+                                    "primaryColorHex": "000000",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e0c6cf9-0ecc-4fed-8930-ce3a2a982a90-profile_image-50x50.png"
+                                },
+                                "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/d2nvs31859zcd8/benjaminmcp0/1559857335/f90ce05b-a83c-4de1-b697-d19ea49ee918/thumb/index-0000000000-320x180.jpg",
+                                "publishedAt": "2022-08-12T16:02:43Z",
+                                "resourceRestriction": null,
+                                "self": {
+                                    "__typename": "VideoSelfEdge",
+                                    "isRestricted": false,
+                                    "viewingHistory": null
+                                },
+                                "title": "benjaminmcp0's Channel Trailer",
+                                "viewCount": 99
+                            }
+                        ],
+                        "title": "trailer",
+                        "type": "COLLECTION"
+                    }
+                },
+                {
+                    "__typename": "VideoShelfEdge",
+                    "cursor": "4",
+                    "node": {
+                        "__typename": "VideoShelf",
+                        "collection": null,
+                        "description": null,
+                        "id": "38b898c1-e0d4-4584-916d-80a80070b111",
+                        "items": [
+                            {
+                                "__typename": "Video",
+                                "animatedPreviewURL": "https://dgeft87wbj63p.cloudfront.net/583c8a89ee7474a1e7c7_benjaminmcp0_40710590229_1717328837/storyboards/2161658373-strip-0.jpg",
+                                "contentTags": [],
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/512953_IGDB-40x56.jpg",
+                                    "displayName": "ELDEN RING",
+                                    "id": "512953",
+                                    "name": "ELDEN RING"
+                                },
+                                "id": "2161658373",
+                                "lengthSeconds": 3554,
+                                "owner": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0",
+                                    "primaryColorHex": "000000",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e0c6cf9-0ecc-4fed-8930-ce3a2a982a90-profile_image-50x50.png"
+                                },
+                                "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/dgeft87wbj63p/583c8a89ee7474a1e7c7_benjaminmcp0_40710590229_1717328837//thumb/thumb0-320x180.jpg",
+                                "publishedAt": "2024-06-02T11:47:33Z",
+                                "resourceRestriction": null,
+                                "self": {
+                                    "__typename": "VideoSelfEdge",
+                                    "isRestricted": false,
+                                    "viewingHistory": null
+                                },
+                                "title": "Sunday streaming ~ DEX/ARC build! [NG+ - 100% - no summons] !discord !yt !sfx",
+                                "viewCount": 24
+                            },
+                            {
+                                "__typename": "Video",
+                                "animatedPreviewURL": "https://dgeft87wbj63p.cloudfront.net/d1fd9f5c95e393426f57_benjaminmcp0_40706844629_1717240073/storyboards/2160778873-strip-0.jpg",
+                                "contentTags": [],
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/512953_IGDB-40x56.jpg",
+                                    "displayName": "ELDEN RING",
+                                    "id": "512953",
+                                    "name": "ELDEN RING"
+                                },
+                                "id": "2160778873",
+                                "lengthSeconds": 23240,
+                                "owner": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0",
+                                    "primaryColorHex": "000000",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e0c6cf9-0ecc-4fed-8930-ce3a2a982a90-profile_image-50x50.png"
+                                },
+                                "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/dgeft87wbj63p/d1fd9f5c95e393426f57_benjaminmcp0_40706844629_1717240073//thumb/thumb0-320x180.jpg",
+                                "publishedAt": "2024-06-01T11:07:59Z",
+                                "resourceRestriction": null,
+                                "self": {
+                                    "__typename": "VideoSelfEdge",
+                                    "isRestricted": false,
+                                    "viewingHistory": null
+                                },
+                                "title": "Affiliate anniversary i guess??? DEX/ARC build! [NG+ - 100% - no summons] !discord !yt !sfx benjam128BirthdayBoi",
+                                "viewCount": 96
+                            },
+                            {
+                                "__typename": "Video",
+                                "animatedPreviewURL": "https://d1m7jfoe9zdc1j.cloudfront.net/db6f32d5c5a059dfde3f_benjaminmcp0_51187534989_1716830280/storyboards/2156740271-strip-0.jpg",
+                                "contentTags": [],
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/512953_IGDB-40x56.jpg",
+                                    "displayName": "ELDEN RING",
+                                    "id": "512953",
+                                    "name": "ELDEN RING"
+                                },
+                                "id": "2156740271",
+                                "lengthSeconds": 12190,
+                                "owner": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0",
+                                    "primaryColorHex": "000000",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e0c6cf9-0ecc-4fed-8930-ce3a2a982a90-profile_image-50x50.png"
+                                },
+                                "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/db6f32d5c5a059dfde3f_benjaminmcp0_51187534989_1716830280//thumb/thumb0-320x180.jpg",
+                                "publishedAt": "2024-05-27T17:18:05Z",
+                                "resourceRestriction": null,
+                                "self": {
+                                    "__typename": "VideoSelfEdge",
+                                    "isRestricted": false,
+                                    "viewingHistory": null
+                                },
+                                "title": "Shorter stream today! DEX/ARC build! [NG+ - 100% - no summons] !discord !yt !sfx",
+                                "viewCount": 52
+                            },
+                            {
+                                "__typename": "Video",
+                                "animatedPreviewURL": "https://dgeft87wbj63p.cloudfront.net/0c38064326cc898d1f06_benjaminmcp0_42379315240_1716638581/storyboards/2154828032-strip-0.jpg",
+                                "contentTags": [],
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/512953_IGDB-40x56.jpg",
+                                    "displayName": "ELDEN RING",
+                                    "id": "512953",
+                                    "name": "ELDEN RING"
+                                },
+                                "id": "2154828032",
+                                "lengthSeconds": 25040,
+                                "owner": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0",
+                                    "primaryColorHex": "000000",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e0c6cf9-0ecc-4fed-8930-ce3a2a982a90-profile_image-50x50.png"
+                                },
+                                "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/dgeft87wbj63p/0c38064326cc898d1f06_benjaminmcp0_42379315240_1716638581//thumb/thumb0-320x180.jpg",
+                                "publishedAt": "2024-05-25T12:03:05Z",
+                                "resourceRestriction": null,
+                                "self": {
+                                    "__typename": "VideoSelfEdge",
+                                    "isRestricted": false,
+                                    "viewingHistory": null
+                                },
+                                "title": "Saturday strim??? DEX/ARC build [NG+ -- 100%] !discord !yt !sfx",
+                                "viewCount": 94
+                            },
+                            {
+                                "__typename": "Video",
+                                "animatedPreviewURL": "https://dgeft87wbj63p.cloudfront.net/9a340f528857b8cd60c0_benjaminmcp0_42372259848_1716485179/storyboards/2153264394-strip-0.jpg",
+                                "contentTags": [],
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/512953_IGDB-40x56.jpg",
+                                    "displayName": "ELDEN RING",
+                                    "id": "512953",
+                                    "name": "ELDEN RING"
+                                },
+                                "id": "2153264394",
+                                "lengthSeconds": 21830,
+                                "owner": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0",
+                                    "primaryColorHex": "000000",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e0c6cf9-0ecc-4fed-8930-ce3a2a982a90-profile_image-50x50.png"
+                                },
+                                "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/dgeft87wbj63p/9a340f528857b8cd60c0_benjaminmcp0_42372259848_1716485179//thumb/thumb0-320x180.jpg",
+                                "publishedAt": "2024-05-23T17:26:24Z",
+                                "resourceRestriction": null,
+                                "self": {
+                                    "__typename": "VideoSelfEdge",
+                                    "isRestricted": false,
+                                    "viewingHistory": null
+                                },
+                                "title": "Final boss then ng+ dex/arcane build lets goooo [NG+ 100%] !discord !yt !sfx",
+                                "viewCount": 78
+                            },
+                            {
+                                "__typename": "Video",
+                                "animatedPreviewURL": "https://d1m7jfoe9zdc1j.cloudfront.net/e9157a8806cd2c889249_benjaminmcp0_51142202733_1716311713/storyboards/2151545712-strip-0.jpg",
+                                "contentTags": [],
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/512953_IGDB-40x56.jpg",
+                                    "displayName": "ELDEN RING",
+                                    "id": "512953",
+                                    "name": "ELDEN RING"
+                                },
+                                "id": "2151545712",
+                                "lengthSeconds": 27550,
+                                "owner": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0",
+                                    "primaryColorHex": "000000",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e0c6cf9-0ecc-4fed-8930-ce3a2a982a90-profile_image-50x50.png"
+                                },
+                                "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/e9157a8806cd2c889249_benjaminmcp0_51142202733_1716311713//thumb/thumb0-320x180.jpg",
+                                "publishedAt": "2024-05-21T17:15:18Z",
+                                "resourceRestriction": null,
+                                "self": {
+                                    "__typename": "VideoSelfEdge",
+                                    "isRestricted": false,
+                                    "viewingHistory": null
+                                },
+                                "title": "Elden Ring - bonk is back bonkerSSS - Great Star Build [First Playthrough] !discord !yt !sfx",
+                                "viewCount": 139
+                            },
+                            {
+                                "__typename": "Video",
+                                "animatedPreviewURL": "https://dgeft87wbj63p.cloudfront.net/2d772ce84e5eef541a28_benjaminmcp0_42360672712_1716226194/storyboards/2150733850-strip-0.jpg",
+                                "contentTags": [],
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/512953_IGDB-40x56.jpg",
+                                    "displayName": "ELDEN RING",
+                                    "id": "512953",
+                                    "name": "ELDEN RING"
+                                },
+                                "id": "2150733850",
+                                "lengthSeconds": 20750,
+                                "owner": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0",
+                                    "primaryColorHex": "000000",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e0c6cf9-0ecc-4fed-8930-ce3a2a982a90-profile_image-50x50.png"
+                                },
+                                "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/dgeft87wbj63p/2d772ce84e5eef541a28_benjaminmcp0_42360672712_1716226194//thumb/thumb0-320x180.jpg",
+                                "publishedAt": "2024-05-20T17:29:59Z",
+                                "resourceRestriction": null,
+                                "self": {
+                                    "__typename": "VideoSelfEdge",
+                                    "isRestricted": false,
+                                    "viewingHistory": null
+                                },
+                                "title": "Words --> Elden Ring // New Weapons POG [First Playthrough - PART 6] !discord !yt !sfx",
+                                "viewCount": 94
+                            },
+                            {
+                                "__typename": "Video",
+                                "animatedPreviewURL": "https://dgeft87wbj63p.cloudfront.net/16abb845eba3056e908d_benjaminmcp0_40655051253_1715880676/storyboards/2147300426-strip-0.jpg",
+                                "contentTags": [],
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/512821-40x56.jpg",
+                                    "displayName": "Words On Stream",
+                                    "id": "512821",
+                                    "name": "Words On Stream"
+                                },
+                                "id": "2147300426",
+                                "lengthSeconds": 17890,
+                                "owner": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0",
+                                    "primaryColorHex": "000000",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e0c6cf9-0ecc-4fed-8930-ce3a2a982a90-profile_image-50x50.png"
+                                },
+                                "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/dgeft87wbj63p/16abb845eba3056e908d_benjaminmcp0_40655051253_1715880676//thumb/thumb0-320x180.jpg",
+                                "publishedAt": "2024-05-16T17:31:22Z",
+                                "resourceRestriction": null,
+                                "self": {
+                                    "__typename": "VideoSelfEdge",
+                                    "isRestricted": false,
+                                    "viewingHistory": null
+                                },
+                                "title": "WERDS & Elden Ring // Hammer BRO takes on Fallingstar beast [First Playthrough - PART 6] !discord !yt !sfx",
+                                "viewCount": 95
+                            },
+                            {
+                                "__typename": "Video",
+                                "animatedPreviewURL": "https://dgeft87wbj63p.cloudfront.net/9c48a3055c04a8d2c12d_benjaminmcp0_42336747672_1715707086/storyboards/2145636144-strip-0.jpg",
+                                "contentTags": [],
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/512953_IGDB-40x56.jpg",
+                                    "displayName": "ELDEN RING",
+                                    "id": "512953",
+                                    "name": "ELDEN RING"
+                                },
+                                "id": "2145636144",
+                                "lengthSeconds": 26840,
+                                "owner": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0",
+                                    "primaryColorHex": "000000",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e0c6cf9-0ecc-4fed-8930-ce3a2a982a90-profile_image-50x50.png"
+                                },
+                                "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/dgeft87wbj63p/9c48a3055c04a8d2c12d_benjaminmcp0_42336747672_1715707086//thumb/thumb0-320x180.jpg",
+                                "publishedAt": "2024-05-14T17:18:10Z",
+                                "resourceRestriction": null,
+                                "self": {
+                                    "__typename": "VideoSelfEdge",
+                                    "isRestricted": false,
+                                    "viewingHistory": null
+                                },
+                                "title": "Where we off to today??? Elden Ring [First Playthrough - PART 5] !discord !yt !sfx",
+                                "viewCount": 115
+                            },
+                            {
+                                "__typename": "Video",
+                                "animatedPreviewURL": "https://dgeft87wbj63p.cloudfront.net/2c14935e6b8e3c3061a3_benjaminmcp0_42332839176_1715620468/storyboards/2144815739-strip-0.jpg",
+                                "contentTags": [],
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/512821-40x56.jpg",
+                                    "displayName": "Words On Stream",
+                                    "id": "512821",
+                                    "name": "Words On Stream"
+                                },
+                                "id": "2144815739",
+                                "lengthSeconds": 20370,
+                                "owner": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0",
+                                    "primaryColorHex": "000000",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e0c6cf9-0ecc-4fed-8930-ce3a2a982a90-profile_image-50x50.png"
+                                },
+                                "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/dgeft87wbj63p/2c14935e6b8e3c3061a3_benjaminmcp0_42332839176_1715620468//thumb/thumb0-320x180.jpg",
+                                "publishedAt": "2024-05-13T17:14:33Z",
+                                "resourceRestriction": null,
+                                "self": {
+                                    "__typename": "VideoSelfEdge",
+                                    "isRestricted": false,
+                                    "viewingHistory": null
+                                },
+                                "title": "Where we off to today??? WORDZZZ N' Elden Ring [First Playthrough - PART 5] !discord !yt !sfx",
+                                "viewCount": 106
+                            },
+                            {
+                                "__typename": "Video",
+                                "animatedPreviewURL": "https://d1m7jfoe9zdc1j.cloudfront.net/b396d91b7bcd82cee8b8_benjaminmcp0_51076234445_1715533556/storyboards/2144045584-strip-0.jpg",
+                                "contentTags": [],
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/512953_IGDB-40x56.jpg",
+                                    "displayName": "ELDEN RING",
+                                    "id": "512953",
+                                    "name": "ELDEN RING"
+                                },
+                                "id": "2144045584",
+                                "lengthSeconds": 20210,
+                                "owner": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0",
+                                    "primaryColorHex": "000000",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e0c6cf9-0ecc-4fed-8930-ce3a2a982a90-profile_image-50x50.png"
+                                },
+                                "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/d1m7jfoe9zdc1j/b396d91b7bcd82cee8b8_benjaminmcp0_51076234445_1715533556//thumb/thumb0-320x180.jpg",
+                                "publishedAt": "2024-05-12T17:06:01Z",
+                                "resourceRestriction": null,
+                                "self": {
+                                    "__typename": "VideoSelfEdge",
+                                    "isRestricted": false,
+                                    "viewingHistory": null
+                                },
+                                "title": "Sunday big chilling' Elden Ring [First Playthrough - PART 5] !discord !yt !sfx",
+                                "viewCount": 81
+                            },
+                            {
+                                "__typename": "Video",
+                                "animatedPreviewURL": "https://dgeft87wbj63p.cloudfront.net/de9c631a48c598e8a4a7_benjaminmcp0_42325765176_1715459296/storyboards/2143338662-strip-0.jpg",
+                                "contentTags": [],
+                                "game": {
+                                    "__typename": "Game",
+                                    "boxArtURL": "https://static-cdn.jtvnw.net/ttv-boxart/509658-40x56.jpg",
+                                    "displayName": "Just Chatting",
+                                    "id": "509658",
+                                    "name": "Just Chatting"
+                                },
+                                "id": "2143338662",
+                                "lengthSeconds": 6700,
+                                "owner": {
+                                    "__typename": "User",
+                                    "displayName": "benjaminmcp0",
+                                    "id": "107234356",
+                                    "login": "benjaminmcp0",
+                                    "primaryColorHex": "000000",
+                                    "profileImageURL": "https://static-cdn.jtvnw.net/jtv_user_pictures/3e0c6cf9-0ecc-4fed-8930-ce3a2a982a90-profile_image-50x50.png"
+                                },
+                                "previewThumbnailURL": "https://static-cdn.jtvnw.net/cf_vods/dgeft87wbj63p/de9c631a48c598e8a4a7_benjaminmcp0_42325765176_1715459296//thumb/thumb0-320x180.jpg",
+                                "publishedAt": "2024-05-11T20:28:20Z",
+                                "resourceRestriction": null,
+                                "self": {
+                                    "__typename": "VideoSelfEdge",
+                                    "isRestricted": false,
+                                    "viewingHistory": null
+                                },
+                                "title": "Late night Brawl n' ER !mywheel !discord !sfx",
+                                "viewCount": 24
+                            }
+                        ],
+                        "title": "All videos",
+                        "type": "ALL_VIDEOS"
+                    }
+                }
+            ],
+            "pageInfo": {
+                "__typename": "PageInfo",
+                "hasNextPage": false
+            }
+        }
+    }
+}
